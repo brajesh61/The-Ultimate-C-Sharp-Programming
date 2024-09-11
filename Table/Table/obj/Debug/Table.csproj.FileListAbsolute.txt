@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\Table\Table\bin\Debug\Table.exe.config
+C:\Users\Kumar\source\repos\Table\Table\bin\Debug\Table.exe
+C:\Users\Kumar\source\repos\Table\Table\bin\Debug\Table.pdb
+C:\Users\Kumar\source\repos\Table\Table\obj\Debug\Table.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\Table\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\Table\Table\obj\Debug\Table.exe
+C:\Users\Kumar\source\repos\Table\Table\obj\Debug\Table.pdb
