@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\Print String In reverse\Print String In reverse\bin\Debug\Print String In reverse.exe.config
+C:\Users\Kumar\source\repos\Print String In reverse\Print String In reverse\bin\Debug\Print String In reverse.exe
+C:\Users\Kumar\source\repos\Print String In reverse\Print String In reverse\bin\Debug\Print String In reverse.pdb
+C:\Users\Kumar\source\repos\Print String In reverse\Print String In reverse\obj\Debug\Print String In reverse.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\Print String In reverse\Print String In reverse\obj\Debug\Print String In reverse.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\Print String In reverse\Print String In reverse\obj\Debug\Print String In reverse.exe
+C:\Users\Kumar\source\repos\Print String In reverse\Print String In reverse\obj\Debug\Print String In reverse.pdb
