@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\Removing Specific character\Removing Specific character\obj\Debug\Removing Specific character.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\Removing Specific character\Removing Specific character\obj\Debug\Removing Specific character.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\Removing Specific character\Removing Specific character\bin\Debug\Removing Specific character.exe.config
+C:\Users\Kumar\source\repos\Removing Specific character\Removing Specific character\bin\Debug\Removing Specific character.exe
+C:\Users\Kumar\source\repos\Removing Specific character\Removing Specific character\bin\Debug\Removing Specific character.pdb
+C:\Users\Kumar\source\repos\Removing Specific character\Removing Specific character\obj\Debug\Removing Specific character.exe
+C:\Users\Kumar\source\repos\Removing Specific character\Removing Specific character\obj\Debug\Removing Specific character.pdb
