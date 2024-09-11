@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\Money-Currency\Money-Currency\bin\Debug\Money-Currency.exe.config
+C:\Users\Kumar\source\repos\Money-Currency\Money-Currency\bin\Debug\Money-Currency.exe
+C:\Users\Kumar\source\repos\Money-Currency\Money-Currency\bin\Debug\Money-Currency.pdb
+C:\Users\Kumar\source\repos\Money-Currency\Money-Currency\obj\Debug\Money-Currency.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\Money-Currency\Money-Currency\obj\Debug\Money-Currency.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\Money-Currency\Money-Currency\obj\Debug\Money-Currency.exe
+C:\Users\Kumar\source\repos\Money-Currency\Money-Currency\obj\Debug\Money-Currency.pdb
