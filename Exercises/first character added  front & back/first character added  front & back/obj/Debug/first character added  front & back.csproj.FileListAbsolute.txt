@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\first character added  front & back\first character added  front & back\bin\Debug\first character added  front & back.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\first character added  front & back\first character added  front & back\bin\Debug\first character added  front & back.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\first character added  front & back\first character added  front & back\bin\Debug\first character added  front & back.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\first character added  front & back\first character added  front & back\obj\Debug\first character added  front & back.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\first character added  front & back\first character added  front & back\obj\Debug\first character added  front & back.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\first character added  front & back\first character added  front & back\obj\Debug\first character added  front & back.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\first character added  front & back\first character added  front & back\obj\Debug\first character added  front & back.pdb
