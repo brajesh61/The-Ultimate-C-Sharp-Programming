@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Exchange String\Exchange String\bin\Debug\Exchange String.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Exchange String\Exchange String\bin\Debug\Exchange String.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Exchange String\Exchange String\bin\Debug\Exchange String.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Exchange String\Exchange String\obj\Debug\Exchange String.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Exchange String\Exchange String\obj\Debug\Exchange String.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Exchange String\Exchange String\obj\Debug\Exchange String.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Exchange String\Exchange String\obj\Debug\Exchange String.pdb
