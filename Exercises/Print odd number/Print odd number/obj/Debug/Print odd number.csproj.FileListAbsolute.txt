@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print odd number\Print odd number\bin\Debug\Print odd number.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print odd number\Print odd number\bin\Debug\Print odd number.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print odd number\Print odd number\bin\Debug\Print odd number.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print odd number\Print odd number\obj\Debug\Print odd number.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print odd number\Print odd number\obj\Debug\Print odd number.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print odd number\Print odd number\obj\Debug\Print odd number.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print odd number\Print odd number\obj\Debug\Print odd number.pdb
