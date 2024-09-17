@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\Sum equal multiple\Sum equal multiple\bin\Debug\Sum equal multiple.exe.config
+C:\Users\Kumar\source\repos\Sum equal multiple\Sum equal multiple\bin\Debug\Sum equal multiple.exe
+C:\Users\Kumar\source\repos\Sum equal multiple\Sum equal multiple\bin\Debug\Sum equal multiple.pdb
+C:\Users\Kumar\source\repos\Sum equal multiple\Sum equal multiple\obj\Debug\Sum equal multiple.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\Sum equal multiple\Sum equal multiple\obj\Debug\Sum equal multiple.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\Sum equal multiple\Sum equal multiple\obj\Debug\Sum equal multiple.exe
+C:\Users\Kumar\source\repos\Sum equal multiple\Sum equal multiple\obj\Debug\Sum equal multiple.pdb
