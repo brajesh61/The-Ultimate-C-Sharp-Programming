@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print Prime numbers\Print Prime numbers\obj\Debug\Print Prime numbers.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print Prime numbers\Print Prime numbers\obj\Debug\Print Prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print Prime numbers\Print Prime numbers\bin\Debug\Print Prime numbers.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print Prime numbers\Print Prime numbers\bin\Debug\Print Prime numbers.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print Prime numbers\Print Prime numbers\bin\Debug\Print Prime numbers.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print Prime numbers\Print Prime numbers\obj\Debug\Print Prime numbers.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Print Prime numbers\Print Prime numbers\obj\Debug\Print Prime numbers.pdb
