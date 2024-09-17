@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppar Lower case", "Uppar Lower case\Uppar Lower case.csproj", "{DF8223E7-6AC2-4AD0-9FDD-6888023EC70B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF8223E7-6AC2-4AD0-9FDD-6888023EC70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8223E7-6AC2-4AD0-9FDD-6888023EC70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8223E7-6AC2-4AD0-9FDD-6888023EC70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8223E7-6AC2-4AD0-9FDD-6888023EC70B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B09709BD-AC4C-4A1E-8F3F-F07466E248D3}
+	EndGlobalSection
+EndGlobal

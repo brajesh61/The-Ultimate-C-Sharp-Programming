@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Uppar Lower case\Uppar Lower case\bin\Debug\Uppar Lower case.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Uppar Lower case\Uppar Lower case\bin\Debug\Uppar Lower case.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Uppar Lower case\Uppar Lower case\bin\Debug\Uppar Lower case.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Uppar Lower case\Uppar Lower case\obj\Debug\Uppar Lower case.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Uppar Lower case\Uppar Lower case\obj\Debug\Uppar Lower case.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Uppar Lower case\Uppar Lower case\obj\Debug\Uppar Lower case.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Uppar Lower case\Uppar Lower case\obj\Debug\Uppar Lower case.pdb
