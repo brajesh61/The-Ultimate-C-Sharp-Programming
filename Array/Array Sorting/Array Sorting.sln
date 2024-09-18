@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Sorting", "Array Sorting\Array Sorting.csproj", "{58102AE8-5EB9-47EB-9598-7AAB98CB345C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58102AE8-5EB9-47EB-9598-7AAB98CB345C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58102AE8-5EB9-47EB-9598-7AAB98CB345C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58102AE8-5EB9-47EB-9598-7AAB98CB345C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58102AE8-5EB9-47EB-9598-7AAB98CB345C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7150EE70-8CF6-4FC4-AFAB-5532BC040C21}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Sorting\Array Sorting\bin\Debug\Array Sorting.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Sorting\Array Sorting\bin\Debug\Array Sorting.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Sorting\Array Sorting\bin\Debug\Array Sorting.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Sorting\Array Sorting\obj\Debug\Array Sorting.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Sorting\Array Sorting\obj\Debug\Array Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Sorting\Array Sorting\obj\Debug\Array Sorting.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Sorting\Array Sorting\obj\Debug\Array Sorting.pdb

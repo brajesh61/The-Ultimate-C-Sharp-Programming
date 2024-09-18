@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Reversal\Array Reversal\bin\Debug\Array Reversal.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Reversal\Array Reversal\bin\Debug\Array Reversal.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Reversal\Array Reversal\bin\Debug\Array Reversal.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Reversal\Array Reversal\obj\Debug\Array Reversal.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Reversal\Array Reversal\obj\Debug\Array Reversal.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Reversal\Array Reversal\obj\Debug\Array Reversal.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Array Reversal\Array Reversal\obj\Debug\Array Reversal.pdb
