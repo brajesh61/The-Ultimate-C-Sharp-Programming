@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Dictinory\Dictinory\bin\Debug\Dictinory.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Dictinory\Dictinory\bin\Debug\Dictinory.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Dictinory\Dictinory\bin\Debug\Dictinory.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Dictinory\Dictinory\obj\Debug\Dictinory.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Dictinory\Dictinory\obj\Debug\Dictinory.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Dictinory\Dictinory\obj\Debug\Dictinory.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Dictinory\Dictinory\obj\Debug\Dictinory.pdb
