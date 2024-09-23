@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Odd or Even number split\Odd or Even number split\obj\Debug\Odd or Even number split.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Odd or Even number split\Odd or Even number split\obj\Debug\Odd or Even number split.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Odd or Even number split\Odd or Even number split\bin\Debug\Odd or Even number split.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Odd or Even number split\Odd or Even number split\bin\Debug\Odd or Even number split.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Odd or Even number split\Odd or Even number split\bin\Debug\Odd or Even number split.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Odd or Even number split\Odd or Even number split\obj\Debug\Odd or Even number split.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Odd or Even number split\Odd or Even number split\obj\Debug\Odd or Even number split.pdb
