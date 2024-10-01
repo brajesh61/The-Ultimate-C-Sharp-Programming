@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Area of Tringle using funtions\Area of Tringle using funtions\bin\Debug\Area of Tringle using funtions.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Area of Tringle using funtions\Area of Tringle using funtions\bin\Debug\Area of Tringle using funtions.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Area of Tringle using funtions\Area of Tringle using funtions\bin\Debug\Area of Tringle using funtions.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Area of Tringle using funtions\Area of Tringle using funtions\obj\Debug\Area of Tringle using funtions.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Area of Tringle using funtions\Area of Tringle using funtions\obj\Debug\Area of Tringle using funtions.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Area of Tringle using funtions\Area of Tringle using funtions\obj\Debug\Area of Tringle using funtions.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Area of Tringle using funtions\Area of Tringle using funtions\obj\Debug\Area of Tringle using funtions.pdb

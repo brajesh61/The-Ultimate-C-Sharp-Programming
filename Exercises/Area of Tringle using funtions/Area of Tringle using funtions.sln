@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area of Tringle using funtions", "Area of Tringle using funtions\Area of Tringle using funtions.csproj", "{BAD3D05C-9CAB-4BA0-817B-63A1EADF4F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD3D05C-9CAB-4BA0-817B-63A1EADF4F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD3D05C-9CAB-4BA0-817B-63A1EADF4F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD3D05C-9CAB-4BA0-817B-63A1EADF4F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD3D05C-9CAB-4BA0-817B-63A1EADF4F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {564470C4-0E46-4725-9776-0B80136DD3E8}
+	EndGlobalSection
+EndGlobal
