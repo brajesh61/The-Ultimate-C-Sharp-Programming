@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Out Parameters\Out Parameters\bin\Debug\Out Parameters.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Out Parameters\Out Parameters\bin\Debug\Out Parameters.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Out Parameters\Out Parameters\bin\Debug\Out Parameters.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Out Parameters\Out Parameters\obj\Debug\Out Parameters.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Out Parameters\Out Parameters\obj\Debug\Out Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Out Parameters\Out Parameters\obj\Debug\Out Parameters.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Out Parameters\Out Parameters\obj\Debug\Out Parameters.pdb
