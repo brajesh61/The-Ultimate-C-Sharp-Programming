@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion\Funtion\bin\Debug\Funtion.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion\Funtion\bin\Debug\Funtion.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion\Funtion\bin\Debug\Funtion.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion\Funtion\obj\Debug\Funtion.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion\Funtion\obj\Debug\Funtion.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion\Funtion\obj\Debug\Funtion.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion\Funtion\obj\Debug\Funtion.pdb
