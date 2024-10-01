@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Named Parameters\Named Parameters\bin\Debug\Named Parameters.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Named Parameters\Named Parameters\bin\Debug\Named Parameters.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Named Parameters\Named Parameters\bin\Debug\Named Parameters.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Named Parameters\Named Parameters\obj\Debug\Named Parameters.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Named Parameters\Named Parameters\obj\Debug\Named Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Named Parameters\Named Parameters\obj\Debug\Named Parameters.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Named Parameters\Named Parameters\obj\Debug\Named Parameters.pdb
