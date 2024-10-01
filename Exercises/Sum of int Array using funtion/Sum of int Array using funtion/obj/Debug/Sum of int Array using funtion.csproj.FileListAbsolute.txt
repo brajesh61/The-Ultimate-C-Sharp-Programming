@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Sum of int Array using funtion\Sum of int Array using funtion\obj\Debug\Sum of int Array using funtion.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Sum of int Array using funtion\Sum of int Array using funtion\obj\Debug\Sum of int Array using funtion.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Sum of int Array using funtion\Sum of int Array using funtion\bin\Debug\Sum of int Array using funtion.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Sum of int Array using funtion\Sum of int Array using funtion\bin\Debug\Sum of int Array using funtion.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Sum of int Array using funtion\Sum of int Array using funtion\bin\Debug\Sum of int Array using funtion.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Sum of int Array using funtion\Sum of int Array using funtion\obj\Debug\Sum of int Array using funtion.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Sum of int Array using funtion\Sum of int Array using funtion\obj\Debug\Sum of int Array using funtion.pdb
