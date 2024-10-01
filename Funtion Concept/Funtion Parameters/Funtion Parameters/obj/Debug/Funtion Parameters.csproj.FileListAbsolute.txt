@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion Parameters\Funtion Parameters\bin\Debug\Funtion Parameters.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion Parameters\Funtion Parameters\bin\Debug\Funtion Parameters.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion Parameters\Funtion Parameters\bin\Debug\Funtion Parameters.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion Parameters\Funtion Parameters\obj\Debug\Funtion Parameters.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion Parameters\Funtion Parameters\obj\Debug\Funtion Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion Parameters\Funtion Parameters\obj\Debug\Funtion Parameters.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Funtion Parameters\Funtion Parameters\obj\Debug\Funtion Parameters.pdb
