@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Refrence Parameters\Refrence Parameters\bin\Debug\Refrence Parameters.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Refrence Parameters\Refrence Parameters\bin\Debug\Refrence Parameters.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Refrence Parameters\Refrence Parameters\bin\Debug\Refrence Parameters.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Refrence Parameters\Refrence Parameters\obj\Debug\Refrence Parameters.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Refrence Parameters\Refrence Parameters\obj\Debug\Refrence Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Refrence Parameters\Refrence Parameters\obj\Debug\Refrence Parameters.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Funtion Concept\Refrence Parameters\Refrence Parameters\obj\Debug\Refrence Parameters.pdb
