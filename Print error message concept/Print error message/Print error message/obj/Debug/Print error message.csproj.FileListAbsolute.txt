@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Print error message\Print error message\bin\Debug\Print error message.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Print error message\Print error message\bin\Debug\Print error message.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Print error message\Print error message\bin\Debug\Print error message.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Print error message\Print error message\obj\Debug\Print error message.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Print error message\Print error message\obj\Debug\Print error message.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Print error message\Print error message\obj\Debug\Print error message.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Print error message\Print error message\obj\Debug\Print error message.pdb
