@@ -1,7 +1,0 @@
-C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\TryParse\Custom Try Parse\Custom Try Parse\obj\Debug\Custom Try Parse.csproj.AssemblyReference.cache
-C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\TryParse\Custom Try Parse\Custom Try Parse\obj\Debug\Custom Try Parse.csproj.CoreCompileInputs.cache
-C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\TryParse\Custom Try Parse\Custom Try Parse\bin\Debug\Custom Try Parse.exe.config
-C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\TryParse\Custom Try Parse\Custom Try Parse\bin\Debug\Custom Try Parse.exe
-C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\TryParse\Custom Try Parse\Custom Try Parse\bin\Debug\Custom Try Parse.pdb
-C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\TryParse\Custom Try Parse\Custom Try Parse\obj\Debug\Custom Try Parse.exe
-C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\TryParse\Custom Try Parse\Custom Try Parse\obj\Debug\Custom Try Parse.pdb
