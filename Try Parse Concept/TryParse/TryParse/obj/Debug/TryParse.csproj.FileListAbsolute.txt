@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\Kumar\source\repos\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\Users\Kumar\source\repos\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\Users\Kumar\source\repos\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\Users\Kumar\source\repos\TryParse\TryParse\obj\Debug\TryParse.pdb
