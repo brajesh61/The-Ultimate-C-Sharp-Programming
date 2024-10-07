@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Try Catch\Try Catch\bin\Debug\Try Catch.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Try Catch\Try Catch\bin\Debug\Try Catch.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Try Catch\Try Catch\bin\Debug\Try Catch.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Try Catch\Try Catch\obj\Debug\Try Catch.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Try Catch\Try Catch\obj\Debug\Try Catch.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Try Catch\Try Catch\obj\Debug\Try Catch.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Try Catch\Try Catch\obj\Debug\Try Catch.pdb
