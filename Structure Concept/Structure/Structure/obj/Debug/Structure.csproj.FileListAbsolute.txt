@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Structure Concept\Structure\Structure\obj\Debug\Structure.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Structure Concept\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Structure Concept\Structure\Structure\bin\Debug\Structure.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Structure Concept\Structure\Structure\bin\Debug\Structure.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Structure Concept\Structure\Structure\bin\Debug\Structure.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Structure Concept\Structure\Structure\obj\Debug\Structure.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Structure Concept\Structure\Structure\obj\Debug\Structure.pdb
