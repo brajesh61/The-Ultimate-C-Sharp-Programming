@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\Reverse the word\Reverse the word\bin\Debug\Reverse the word.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\Reverse the word\Reverse the word\bin\Debug\Reverse the word.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\Reverse the word\Reverse the word\bin\Debug\Reverse the word.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\Reverse the word\Reverse the word\obj\Debug\Reverse the word.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\Reverse the word\Reverse the word\obj\Debug\Reverse the word.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\Reverse the word\Reverse the word\obj\Debug\Reverse the word.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\Reverse the word\Reverse the word\obj\Debug\Reverse the word.pdb
