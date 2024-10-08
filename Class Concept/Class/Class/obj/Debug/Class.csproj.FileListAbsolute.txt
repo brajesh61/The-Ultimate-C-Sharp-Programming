@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Class Concept\Class\Class\bin\Debug\Class.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Class Concept\Class\Class\bin\Debug\Class.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Class Concept\Class\Class\bin\Debug\Class.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Class Concept\Class\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Class Concept\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Class Concept\Class\Class\obj\Debug\Class.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Class Concept\Class\Class\obj\Debug\Class.pdb
