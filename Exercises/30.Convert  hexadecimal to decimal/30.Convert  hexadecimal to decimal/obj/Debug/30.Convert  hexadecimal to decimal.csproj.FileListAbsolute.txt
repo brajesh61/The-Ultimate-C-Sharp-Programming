@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Convert  hexadecimal to decimal\30.Convert  hexadecimal to decimal\bin\Debug\30.Convert  hexadecimal to decimal.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Convert  hexadecimal to decimal\30.Convert  hexadecimal to decimal\bin\Debug\30.Convert  hexadecimal to decimal.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Convert  hexadecimal to decimal\30.Convert  hexadecimal to decimal\bin\Debug\30.Convert  hexadecimal to decimal.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Convert  hexadecimal to decimal\30.Convert  hexadecimal to decimal\obj\Debug\30.Convert  hexadecimal to decimal.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Convert  hexadecimal to decimal\30.Convert  hexadecimal to decimal\obj\Debug\30.Convert  hexadecimal to decimal.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Convert  hexadecimal to decimal\30.Convert  hexadecimal to decimal\obj\Debug\30.Convert  hexadecimal to decimal.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Convert  hexadecimal to decimal\30.Convert  hexadecimal to decimal\obj\Debug\30.Convert  hexadecimal to decimal.pdb

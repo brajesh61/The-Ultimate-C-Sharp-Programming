@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Multiply the corresponding two Array\30.Multiply the corresponding two Array\bin\Debug\30.Multiply the corresponding two Array.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Multiply the corresponding two Array\30.Multiply the corresponding two Array\bin\Debug\30.Multiply the corresponding two Array.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Multiply the corresponding two Array\30.Multiply the corresponding two Array\bin\Debug\30.Multiply the corresponding two Array.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Multiply the corresponding two Array\30.Multiply the corresponding two Array\obj\Debug\30.Multiply the corresponding two Array.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Multiply the corresponding two Array\30.Multiply the corresponding two Array\obj\Debug\30.Multiply the corresponding two Array.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Multiply the corresponding two Array\30.Multiply the corresponding two Array\obj\Debug\30.Multiply the corresponding two Array.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\30.Multiply the corresponding two Array\30.Multiply the corresponding two Array\obj\Debug\30.Multiply the corresponding two Array.pdb

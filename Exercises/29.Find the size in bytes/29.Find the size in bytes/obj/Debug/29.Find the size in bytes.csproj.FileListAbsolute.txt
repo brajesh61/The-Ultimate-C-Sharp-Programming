@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\29.Find the size in bytes\29.Find the size in bytes\bin\Debug\29.Find the size in bytes.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\29.Find the size in bytes\29.Find the size in bytes\bin\Debug\29.Find the size in bytes.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\29.Find the size in bytes\29.Find the size in bytes\bin\Debug\29.Find the size in bytes.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\29.Find the size in bytes\29.Find the size in bytes\obj\Debug\29.Find the size in bytes.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\29.Find the size in bytes\29.Find the size in bytes\obj\Debug\29.Find the size in bytes.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\29.Find the size in bytes\29.Find the size in bytes\obj\Debug\29.Find the size in bytes.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\29.Find the size in bytes\29.Find the size in bytes\obj\Debug\29.Find the size in bytes.pdb
