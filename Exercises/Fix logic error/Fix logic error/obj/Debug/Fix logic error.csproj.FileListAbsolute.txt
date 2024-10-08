@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Fix logic error\Fix logic error\bin\Debug\Fix logic error.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Fix logic error\Fix logic error\bin\Debug\Fix logic error.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Fix logic error\Fix logic error\bin\Debug\Fix logic error.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Fix logic error\Fix logic error\obj\Debug\Fix logic error.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Fix logic error\Fix logic error\obj\Debug\Fix logic error.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Fix logic error\Fix logic error\obj\Debug\Fix logic error.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Fix logic error\Fix logic error\obj\Debug\Fix logic error.pdb
