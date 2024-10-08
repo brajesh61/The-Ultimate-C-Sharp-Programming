@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\27. sum of an integer's digits\27. sum of an integer's digits\obj\Debug\27. sum of an integer's digits.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\27. sum of an integer's digits\27. sum of an integer's digits\obj\Debug\27. sum of an integer's digits.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\27. sum of an integer's digits\27. sum of an integer's digits\bin\Debug\_27.sum_of_an_integer_s_digits.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\27. sum of an integer's digits\27. sum of an integer's digits\bin\Debug\_27.sum_of_an_integer_s_digits.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\27. sum of an integer's digits\27. sum of an integer's digits\bin\Debug\_27.sum_of_an_integer_s_digits.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\27. sum of an integer's digits\27. sum of an integer's digits\obj\Debug\_27.sum_of_an_integer_s_digits.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\27. sum of an integer's digits\27. sum of an integer's digits\obj\Debug\_27.sum_of_an_integer_s_digits.pdb
