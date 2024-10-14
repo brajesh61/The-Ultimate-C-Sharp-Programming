@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\32.Create a string of four copies\32.Create a string of four copies\bin\Debug\32.Create a string of four copies.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\32.Create a string of four copies\32.Create a string of four copies\bin\Debug\32.Create a string of four copies.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\32.Create a string of four copies\32.Create a string of four copies\bin\Debug\32.Create a string of four copies.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\32.Create a string of four copies\32.Create a string of four copies\obj\Debug\32.Create a string of four copies.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\32.Create a string of four copies\32.Create a string of four copies\obj\Debug\32.Create a string of four copies.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\32.Create a string of four copies\32.Create a string of four copies\obj\Debug\32.Create a string of four copies.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\32.Create a string of four copies\32.Create a string of four copies\obj\Debug\32.Create a string of four copies.pdb

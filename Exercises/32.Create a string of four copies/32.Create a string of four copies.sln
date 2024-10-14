@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32.Create a string of four copies", "32.Create a string of four copies\32.Create a string of four copies.csproj", "{B734AAAB-158D-4DDF-926E-C917C7335EE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B734AAAB-158D-4DDF-926E-C917C7335EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B734AAAB-158D-4DDF-926E-C917C7335EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B734AAAB-158D-4DDF-926E-C917C7335EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B734AAAB-158D-4DDF-926E-C917C7335EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {046A9922-CE76-4B5B-967B-8C8A87C8A9D7}
+	EndGlobalSection
+EndGlobal

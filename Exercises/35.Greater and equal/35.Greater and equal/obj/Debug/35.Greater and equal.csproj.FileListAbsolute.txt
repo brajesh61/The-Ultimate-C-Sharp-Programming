@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\35.Greater and equal\35.Greater and equal\bin\Debug\35.Greater and equal.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\35.Greater and equal\35.Greater and equal\bin\Debug\35.Greater and equal.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\35.Greater and equal\35.Greater and equal\bin\Debug\35.Greater and equal.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\35.Greater and equal\35.Greater and equal\obj\Debug\35.Greater and equal.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\35.Greater and equal\35.Greater and equal\obj\Debug\35.Greater and equal.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\35.Greater and equal\35.Greater and equal\obj\Debug\35.Greater and equal.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\35.Greater and equal\35.Greater and equal\obj\Debug\35.Greater and equal.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\33.Number is  multiple of 3 or 7\33.Number is  multiple of 3 or 7\bin\Debug\33.Number is  multiple of 3 or 7.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\33.Number is  multiple of 3 or 7\33.Number is  multiple of 3 or 7\bin\Debug\33.Number is  multiple of 3 or 7.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\33.Number is  multiple of 3 or 7\33.Number is  multiple of 3 or 7\bin\Debug\33.Number is  multiple of 3 or 7.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\33.Number is  multiple of 3 or 7\33.Number is  multiple of 3 or 7\obj\Debug\33.Number is  multiple of 3 or 7.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\33.Number is  multiple of 3 or 7\33.Number is  multiple of 3 or 7\obj\Debug\33.Number is  multiple of 3 or 7.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\33.Number is  multiple of 3 or 7\33.Number is  multiple of 3 or 7\obj\Debug\33.Number is  multiple of 3 or 7.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\33.Number is  multiple of 3 or 7\33.Number is  multiple of 3 or 7\obj\Debug\33.Number is  multiple of 3 or 7.pdb

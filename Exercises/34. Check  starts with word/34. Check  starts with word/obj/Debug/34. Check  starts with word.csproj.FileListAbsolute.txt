@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\34. Check  starts with word\34. Check  starts with word\bin\Debug\_34.Check__starts_with_word.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\34. Check  starts with word\34. Check  starts with word\bin\Debug\_34.Check__starts_with_word.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\34. Check  starts with word\34. Check  starts with word\bin\Debug\_34.Check__starts_with_word.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\34. Check  starts with word\34. Check  starts with word\obj\Debug\34. Check  starts with word.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\34. Check  starts with word\34. Check  starts with word\obj\Debug\34. Check  starts with word.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\34. Check  starts with word\34. Check  starts with word\obj\Debug\_34.Check__starts_with_word.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\34. Check  starts with word\34. Check  starts with word\obj\Debug\_34.Check__starts_with_word.pdb
