@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\37. check  word appears at the second\37. check  word appears at the second\bin\Debug\_37.check__word_appears_at_the_second.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\37. check  word appears at the second\37. check  word appears at the second\bin\Debug\_37.check__word_appears_at_the_second.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\37. check  word appears at the second\37. check  word appears at the second\bin\Debug\_37.check__word_appears_at_the_second.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\37. check  word appears at the second\37. check  word appears at the second\obj\Debug\37. check  word appears at the second.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\37. check  word appears at the second\37. check  word appears at the second\obj\Debug\37. check  word appears at the second.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\37. check  word appears at the second\37. check  word appears at the second\obj\Debug\_37.check__word_appears_at_the_second.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\37. check  word appears at the second\37. check  word appears at the second\obj\Debug\_37.check__word_appears_at_the_second.pdb

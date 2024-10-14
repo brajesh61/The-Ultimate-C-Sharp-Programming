@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\38.Get a string of two characters\38.Get a string of two characters\bin\Debug\38.Get a string of two characters.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\38.Get a string of two characters\38.Get a string of two characters\bin\Debug\38.Get a string of two characters.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\38.Get a string of two characters\38.Get a string of two characters\bin\Debug\38.Get a string of two characters.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\38.Get a string of two characters\38.Get a string of two characters\obj\Debug\38.Get a string of two characters.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\38.Get a string of two characters\38.Get a string of two characters\obj\Debug\38.Get a string of two characters.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\38.Get a string of two characters\38.Get a string of two characters\obj\Debug\38.Get a string of two characters.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\38.Get a string of two characters\38.Get a string of two characters\obj\Debug\38.Get a string of two characters.pdb

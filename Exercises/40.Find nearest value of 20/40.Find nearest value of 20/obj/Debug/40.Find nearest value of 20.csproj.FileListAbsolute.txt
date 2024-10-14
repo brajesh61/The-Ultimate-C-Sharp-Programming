@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\40.Find nearest value of 20\40.Find nearest value of 20\bin\Debug\40.Find nearest value of 20.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\40.Find nearest value of 20\40.Find nearest value of 20\bin\Debug\40.Find nearest value of 20.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\40.Find nearest value of 20\40.Find nearest value of 20\bin\Debug\40.Find nearest value of 20.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\40.Find nearest value of 20\40.Find nearest value of 20\obj\Debug\40.Find nearest value of 20.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\40.Find nearest value of 20\40.Find nearest value of 20\obj\Debug\40.Find nearest value of 20.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\40.Find nearest value of 20\40.Find nearest value of 20\obj\Debug\40.Find nearest value of 20.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\40.Find nearest value of 20\40.Find nearest value of 20\obj\Debug\40.Find nearest value of 20.pdb

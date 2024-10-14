@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\39. Find the largest and lowest values\39. Find the largest and lowest values\obj\Debug\39. Find the largest and lowest values.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\39. Find the largest and lowest values\39. Find the largest and lowest values\obj\Debug\39. Find the largest and lowest values.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\39. Find the largest and lowest values\39. Find the largest and lowest values\bin\Debug\_39.Find_the_largest_and_lowest_values.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\39. Find the largest and lowest values\39. Find the largest and lowest values\bin\Debug\_39.Find_the_largest_and_lowest_values.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\39. Find the largest and lowest values\39. Find the largest and lowest values\bin\Debug\_39.Find_the_largest_and_lowest_values.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\39. Find the largest and lowest values\39. Find the largest and lowest values\obj\Debug\_39.Find_the_largest_and_lowest_values.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\39. Find the largest and lowest values\39. Find the largest and lowest values\obj\Debug\_39.Find_the_largest_and_lowest_values.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\36.Check integers change\36.Check integers change\bin\Debug\36.Check integers change.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\36.Check integers change\36.Check integers change\bin\Debug\36.Check integers change.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\36.Check integers change\36.Check integers change\bin\Debug\36.Check integers change.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\36.Check integers change\36.Check integers change\obj\Debug\36.Check integers change.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\36.Check integers change\36.Check integers change\obj\Debug\36.Check integers change.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\36.Check integers change\36.Check integers change\obj\Debug\36.Check integers change.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\36.Check integers change\36.Check integers change\obj\Debug\36.Check integers change.pdb
