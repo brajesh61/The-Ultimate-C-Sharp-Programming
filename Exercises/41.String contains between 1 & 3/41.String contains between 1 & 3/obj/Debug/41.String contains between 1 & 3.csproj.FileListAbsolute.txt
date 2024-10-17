@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\41.String contains between 1 & 3\41.String contains between 1 & 3\bin\Debug\41.String contains between 1 & 3.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\41.String contains between 1 & 3\41.String contains between 1 & 3\bin\Debug\41.String contains between 1 & 3.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\41.String contains between 1 & 3\41.String contains between 1 & 3\bin\Debug\41.String contains between 1 & 3.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\41.String contains between 1 & 3\41.String contains between 1 & 3\obj\Debug\41.String contains between 1 & 3.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\41.String contains between 1 & 3\41.String contains between 1 & 3\obj\Debug\41.String contains between 1 & 3.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\41.String contains between 1 & 3\41.String contains between 1 & 3\obj\Debug\41.String contains between 1 & 3.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\41.String contains between 1 & 3\41.String contains between 1 & 3\obj\Debug\41.String contains between 1 & 3.pdb

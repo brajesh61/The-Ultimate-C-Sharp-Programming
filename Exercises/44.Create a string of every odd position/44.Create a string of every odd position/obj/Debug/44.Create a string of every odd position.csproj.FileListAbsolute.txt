@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\44.Create a string of every odd position\44.Create a string of every odd position\bin\Debug\44.Create a string of every odd position.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\44.Create a string of every odd position\44.Create a string of every odd position\bin\Debug\44.Create a string of every odd position.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\44.Create a string of every odd position\44.Create a string of every odd position\bin\Debug\44.Create a string of every odd position.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\44.Create a string of every odd position\44.Create a string of every odd position\obj\Debug\44.Create a string of every odd position.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\44.Create a string of every odd position\44.Create a string of every odd position\obj\Debug\44.Create a string of every odd position.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\44.Create a string of every odd position\44.Create a string of every odd position\obj\Debug\44.Create a string of every odd position.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\44.Create a string of every odd position\44.Create a string of every odd position\obj\Debug\44.Create a string of every odd position.pdb

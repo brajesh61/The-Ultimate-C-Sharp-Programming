@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\42.Check 1st 4 characters in lower case\42.Check 1st 4 characters in lower case\bin\Debug\42.Check 1st 4 characters in lower case.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\42.Check 1st 4 characters in lower case\42.Check 1st 4 characters in lower case\bin\Debug\42.Check 1st 4 characters in lower case.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\42.Check 1st 4 characters in lower case\42.Check 1st 4 characters in lower case\bin\Debug\42.Check 1st 4 characters in lower case.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\42.Check 1st 4 characters in lower case\42.Check 1st 4 characters in lower case\obj\Debug\42.Check 1st 4 characters in lower case.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\42.Check 1st 4 characters in lower case\42.Check 1st 4 characters in lower case\obj\Debug\42.Check 1st 4 characters in lower case.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\42.Check 1st 4 characters in lower case\42.Check 1st 4 characters in lower case\obj\Debug\42.Check 1st 4 characters in lower case.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\42.Check 1st 4 characters in lower case\42.Check 1st 4 characters in lower case\obj\Debug\42.Check 1st 4 characters in lower case.pdb

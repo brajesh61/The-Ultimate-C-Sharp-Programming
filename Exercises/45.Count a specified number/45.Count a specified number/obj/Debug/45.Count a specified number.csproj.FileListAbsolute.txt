@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\45.Count a specified number\45.Count a specified number\bin\Debug\45.Count a specified number.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\45.Count a specified number\45.Count a specified number\bin\Debug\45.Count a specified number.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\45.Count a specified number\45.Count a specified number\bin\Debug\45.Count a specified number.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\45.Count a specified number\45.Count a specified number\obj\Debug\45.Count a specified number.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\45.Count a specified number\45.Count a specified number\obj\Debug\45.Count a specified number.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\45.Count a specified number\45.Count a specified number\obj\Debug\45.Count a specified number.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\45.Count a specified number\45.Count a specified number\obj\Debug\45.Count a specified number.pdb
