@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\53. Check array contains an odd number\53. Check array contains an odd number\bin\Debug\_53.Check_array_contains_an_odd_number.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\53. Check array contains an odd number\53. Check array contains an odd number\bin\Debug\_53.Check_array_contains_an_odd_number.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\53. Check array contains an odd number\53. Check array contains an odd number\bin\Debug\_53.Check_array_contains_an_odd_number.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\53. Check array contains an odd number\53. Check array contains an odd number\obj\Debug\53. Check array contains an odd number.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\53. Check array contains an odd number\53. Check array contains an odd number\obj\Debug\53. Check array contains an odd number.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\53. Check array contains an odd number\53. Check array contains an odd number\obj\Debug\_53.Check_array_contains_an_odd_number.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\53. Check array contains an odd number\53. Check array contains an odd number\obj\Debug\_53.Check_array_contains_an_odd_number.pdb
