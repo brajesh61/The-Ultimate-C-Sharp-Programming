@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48. Checks last & 1st int equal in array", "48. Checks last & 1st int equal in array\48. Checks last & 1st int equal in array.csproj", "{B05F11AA-CA62-4CD3-BCD8-B1CB0ABF5907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05F11AA-CA62-4CD3-BCD8-B1CB0ABF5907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05F11AA-CA62-4CD3-BCD8-B1CB0ABF5907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05F11AA-CA62-4CD3-BCD8-B1CB0ABF5907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05F11AA-CA62-4CD3-BCD8-B1CB0ABF5907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59C781E1-A874-41C2-B0AA-8B75BE2077DE}
+	EndGlobalSection
+EndGlobal

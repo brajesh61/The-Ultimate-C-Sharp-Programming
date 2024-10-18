@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\49. Last & 1st int equal in 2 array\49. Last & 1st int equal in 2 array\bin\Debug\_49.Last___1st_int_equal_in_2_array.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\49. Last & 1st int equal in 2 array\49. Last & 1st int equal in 2 array\bin\Debug\_49.Last___1st_int_equal_in_2_array.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\49. Last & 1st int equal in 2 array\49. Last & 1st int equal in 2 array\bin\Debug\_49.Last___1st_int_equal_in_2_array.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\49. Last & 1st int equal in 2 array\49. Last & 1st int equal in 2 array\obj\Debug\49. Last & 1st int equal in 2 array.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\49. Last & 1st int equal in 2 array\49. Last & 1st int equal in 2 array\obj\Debug\49. Last & 1st int equal in 2 array.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\49. Last & 1st int equal in 2 array\49. Last & 1st int equal in 2 array\obj\Debug\_49.Last___1st_int_equal_in_2_array.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\49. Last & 1st int equal in 2 array\49. Last & 1st int equal in 2 array\obj\Debug\_49.Last___1st_int_equal_in_2_array.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\48. Checks last & 1st int equal in array\48. Checks last & 1st int equal in array\bin\Debug\_48.Checks_last___1st_int_equal_in_array.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\48. Checks last & 1st int equal in array\48. Checks last & 1st int equal in array\bin\Debug\_48.Checks_last___1st_int_equal_in_array.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\48. Checks last & 1st int equal in array\48. Checks last & 1st int equal in array\bin\Debug\_48.Checks_last___1st_int_equal_in_array.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\48. Checks last & 1st int equal in array\48. Checks last & 1st int equal in array\obj\Debug\48. Checks last & 1st int equal in array.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\48. Checks last & 1st int equal in array\48. Checks last & 1st int equal in array\obj\Debug\48. Checks last & 1st int equal in array.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\48. Checks last & 1st int equal in array\48. Checks last & 1st int equal in array\obj\Debug\_48.Checks_last___1st_int_equal_in_array.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\48. Checks last & 1st int equal in array\48. Checks last & 1st int equal in array\obj\Debug\_48.Checks_last___1st_int_equal_in_array.pdb

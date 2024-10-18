@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\47.Compute the sum of numbers array\47.Compute the sum of numbers array\bin\Debug\47.Compute the sum of numbers array.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\47.Compute the sum of numbers array\47.Compute the sum of numbers array\bin\Debug\47.Compute the sum of numbers array.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\47.Compute the sum of numbers array\47.Compute the sum of numbers array\bin\Debug\47.Compute the sum of numbers array.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\47.Compute the sum of numbers array\47.Compute the sum of numbers array\obj\Debug\47.Compute the sum of numbers array.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\47.Compute the sum of numbers array\47.Compute the sum of numbers array\obj\Debug\47.Compute the sum of numbers array.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\47.Compute the sum of numbers array\47.Compute the sum of numbers array\obj\Debug\47.Compute the sum of numbers array.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\47.Compute the sum of numbers array\47.Compute the sum of numbers array\obj\Debug\47.Compute the sum of numbers array.pdb
