@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\54. Geet the century of a year\54. Geet the century of a year\bin\Debug\_54.Geet_the_century_of_a_year.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\54. Geet the century of a year\54. Geet the century of a year\bin\Debug\_54.Geet_the_century_of_a_year.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\54. Geet the century of a year\54. Geet the century of a year\bin\Debug\_54.Geet_the_century_of_a_year.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\54. Geet the century of a year\54. Geet the century of a year\obj\Debug\54. Geet the century of a year.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\54. Geet the century of a year\54. Geet the century of a year\obj\Debug\54. Geet the century of a year.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\54. Geet the century of a year\54. Geet the century of a year\obj\Debug\_54.Geet_the_century_of_a_year.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\54. Geet the century of a year\54. Geet the century of a year\obj\Debug\_54.Geet_the_century_of_a_year.pdb

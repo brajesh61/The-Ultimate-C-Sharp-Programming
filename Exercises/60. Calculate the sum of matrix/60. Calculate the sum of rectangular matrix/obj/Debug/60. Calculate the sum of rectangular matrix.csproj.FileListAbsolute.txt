@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\60. Calculate the sum of matrix\60. Calculate the sum of rectangular matrix\bin\Debug\_60.Calculate_the_sum_of_rectangular_matrix.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\60. Calculate the sum of matrix\60. Calculate the sum of rectangular matrix\bin\Debug\_60.Calculate_the_sum_of_rectangular_matrix.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\60. Calculate the sum of matrix\60. Calculate the sum of rectangular matrix\bin\Debug\_60.Calculate_the_sum_of_rectangular_matrix.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\60. Calculate the sum of matrix\60. Calculate the sum of rectangular matrix\obj\Debug\60. Calculate the sum of rectangular matrix.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\60. Calculate the sum of matrix\60. Calculate the sum of rectangular matrix\obj\Debug\60. Calculate the sum of rectangular matrix.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\60. Calculate the sum of matrix\60. Calculate the sum of rectangular matrix\obj\Debug\_60.Calculate_the_sum_of_rectangular_matrix.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\60. Calculate the sum of matrix\60. Calculate the sum of rectangular matrix\obj\Debug\_60.Calculate_the_sum_of_rectangular_matrix.pdb

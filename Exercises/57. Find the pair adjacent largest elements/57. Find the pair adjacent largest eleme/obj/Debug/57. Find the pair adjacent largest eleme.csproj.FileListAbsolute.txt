@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\57. Find the pair adjacent largest eleme\57. Find the pair adjacent largest eleme\bin\Debug\_57.Find_the_pair_adjacent_largest_eleme.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\57. Find the pair adjacent largest eleme\57. Find the pair adjacent largest eleme\bin\Debug\_57.Find_the_pair_adjacent_largest_eleme.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\57. Find the pair adjacent largest eleme\57. Find the pair adjacent largest eleme\bin\Debug\_57.Find_the_pair_adjacent_largest_eleme.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\57. Find the pair adjacent largest eleme\57. Find the pair adjacent largest eleme\obj\Debug\57. Find the pair adjacent largest eleme.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\57. Find the pair adjacent largest eleme\57. Find the pair adjacent largest eleme\obj\Debug\57. Find the pair adjacent largest eleme.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\57. Find the pair adjacent largest eleme\57. Find the pair adjacent largest eleme\obj\Debug\_57.Find_the_pair_adjacent_largest_eleme.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\57. Find the pair adjacent largest eleme\57. Find the pair adjacent largest eleme\obj\Debug\_57.Find_the_pair_adjacent_largest_eleme.pdb

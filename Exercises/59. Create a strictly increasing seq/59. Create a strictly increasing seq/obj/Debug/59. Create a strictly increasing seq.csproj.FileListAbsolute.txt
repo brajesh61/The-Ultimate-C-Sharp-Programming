@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\59. Create a strictly increasing seq\59. Create a strictly increasing seq\bin\Debug\_59.Create_a_strictly_increasing_seq.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\59. Create a strictly increasing seq\59. Create a strictly increasing seq\bin\Debug\_59.Create_a_strictly_increasing_seq.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\59. Create a strictly increasing seq\59. Create a strictly increasing seq\bin\Debug\_59.Create_a_strictly_increasing_seq.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\59. Create a strictly increasing seq\59. Create a strictly increasing seq\obj\Debug\59. Create a strictly increasing seq.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\59. Create a strictly increasing seq\59. Create a strictly increasing seq\obj\Debug\59. Create a strictly increasing seq.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\59. Create a strictly increasing seq\59. Create a strictly increasing seq\obj\Debug\_59.Create_a_strictly_increasing_seq.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\59. Create a strictly increasing seq\59. Create a strictly increasing seq\obj\Debug\_59.Create_a_strictly_increasing_seq.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58. Checks how many integers", "58. Checks how many integers\58. Checks how many integers.csproj", "{6AFA189A-2BBF-47AB-8CF8-1E8CABAC502F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AFA189A-2BBF-47AB-8CF8-1E8CABAC502F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFA189A-2BBF-47AB-8CF8-1E8CABAC502F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFA189A-2BBF-47AB-8CF8-1E8CABAC502F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFA189A-2BBF-47AB-8CF8-1E8CABAC502F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C401015-9F33-4764-917F-320754121452}
+	EndGlobalSection
+EndGlobal

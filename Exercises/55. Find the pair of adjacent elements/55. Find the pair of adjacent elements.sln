@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55. Find the pair of adjacent elements", "55. Find the pair of adjacent elements\55. Find the pair of adjacent elements.csproj", "{913B7A0C-96A7-4E93-8E83-EDDE47414053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{913B7A0C-96A7-4E93-8E83-EDDE47414053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913B7A0C-96A7-4E93-8E83-EDDE47414053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913B7A0C-96A7-4E93-8E83-EDDE47414053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913B7A0C-96A7-4E93-8E83-EDDE47414053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {478BF09E-8C66-4E0A-90ED-7DFAB15CB1CE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\56. Check string is a palindrome or not\56. Check string is a palindrome or not\bin\Debug\_56.Check_string_is_a_palindrome_or_not.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\56. Check string is a palindrome or not\56. Check string is a palindrome or not\bin\Debug\_56.Check_string_is_a_palindrome_or_not.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\56. Check string is a palindrome or not\56. Check string is a palindrome or not\bin\Debug\_56.Check_string_is_a_palindrome_or_not.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\56. Check string is a palindrome or not\56. Check string is a palindrome or not\obj\Debug\56. Check string is a palindrome or not.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\56. Check string is a palindrome or not\56. Check string is a palindrome or not\obj\Debug\56. Check string is a palindrome or not.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\56. Check string is a palindrome or not\56. Check string is a palindrome or not\obj\Debug\_56.Check_string_is_a_palindrome_or_not.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\56. Check string is a palindrome or not\56. Check string is a palindrome or not\obj\Debug\_56.Check_string_is_a_palindrome_or_not.pdb

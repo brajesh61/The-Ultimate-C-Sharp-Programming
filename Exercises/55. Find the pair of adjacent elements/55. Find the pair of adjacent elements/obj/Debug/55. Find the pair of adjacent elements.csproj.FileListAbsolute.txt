@@ -1,0 +1,7 @@
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\55. Find the pair of adjacent elements\55. Find the pair of adjacent elements\bin\Debug\_55.Find_the_pair_of_adjacent_elements.exe.config
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\55. Find the pair of adjacent elements\55. Find the pair of adjacent elements\bin\Debug\_55.Find_the_pair_of_adjacent_elements.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\55. Find the pair of adjacent elements\55. Find the pair of adjacent elements\bin\Debug\_55.Find_the_pair_of_adjacent_elements.pdb
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\55. Find the pair of adjacent elements\55. Find the pair of adjacent elements\obj\Debug\55. Find the pair of adjacent elements.csproj.AssemblyReference.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\55. Find the pair of adjacent elements\55. Find the pair of adjacent elements\obj\Debug\55. Find the pair of adjacent elements.csproj.CoreCompileInputs.cache
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\55. Find the pair of adjacent elements\55. Find the pair of adjacent elements\obj\Debug\_55.Find_the_pair_of_adjacent_elements.exe
+C:\Users\Kumar\source\repos\The-Ultimate-C-Sharp-Programming\Exercises\Basic\55. Find the pair of adjacent elements\55. Find the pair of adjacent elements\obj\Debug\_55.Find_the_pair_of_adjacent_elements.pdb
