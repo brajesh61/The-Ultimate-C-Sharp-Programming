@@ -40,7 +40,7 @@
 
 ### Prerequisites
 
-* [.NET SDK](https://dotnet.microsoft.com/download) (Version 6.0+)
+* [.NET SDK](https://dotnet.microsoft.com/) (Version 6.0+)
 * [Visual Studio](https://visualstudio.microsoft.com/) or [VS Code](https://code.visualstudio.com/)
 
 ### Execution
