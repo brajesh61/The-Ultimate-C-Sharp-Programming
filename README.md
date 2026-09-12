@@ -66,7 +66,7 @@
 ### 1. Clone the Node
 
 ```bash
-git clone https://github.com/brajesh61/The-Ultimate-C-Sharp-Programming.git
+git clone [https://github.com/brajesh61/The-Ultimate-C-Sharp-Programming.git](https://github.com/brajesh61/The-Ultimate-C-Sharp-Programming.git)
 
 ```
 
