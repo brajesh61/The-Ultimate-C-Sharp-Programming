@@ -20,4 +20,4 @@ jobs:
 
     - name: Build all projects
       run: |
-        find . -name "*.csproj" -exec dotnet build {} \;
+        find ./ -type f -name "*.csproj" -exec dotnet build {} \;
