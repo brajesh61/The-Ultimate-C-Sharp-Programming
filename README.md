@@ -1,12 +1,11 @@
-```markdown
 <div align="center">
 
 # ⚡ 🌐 THE ULTIMATE C# PROGRAMMING 🌐 ⚡
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/Language-C%23_.NET_8.0-ff007f?style=for-the-badge&logo=csharp&logoColor=00f5ff](https://img.shields.io/badge/Language-C%23_.NET_8.0-ff007f?style=for-the-badge&logo=csharp&logoColor=00f5ff)" alt="C# Version" />
-  <img src="[https://img.shields.io/badge/Status-Active_Mastery-00f5ff?style=for-the-badge&logo=codeforces&logoColor=ff007f](https://img.shields.io/badge/Status-Active_Mastery-00f5ff?style=for-the-badge&logo=codeforces&logoColor=ff007f)" alt="Status" />
-  <img src="[https://img.shields.io/badge/Theme-Synthwave_Neon-ff00ff?style=for-the-badge&logo=visualstudiocode&logoColor=00f5ff](https://img.shields.io/badge/Theme-Synthwave_Neon-ff00ff?style=for-the-badge&logo=visualstudiocode&logoColor=00f5ff)" alt="Theme" />
+  <img src="https://img.shields.io/badge/Language-C%23_.NET_8.0-ff007f?style=for-the-badge&logo=csharp&logoColor=00f5ff" alt="C# Version" />
+  <img src="https://img.shields.io/badge/Status-Active_Mastery-00f5ff?style=for-the-badge&logo=codeforces&logoColor=ff007f" alt="Status" />
+  <img src="https://img.shields.io/badge/Theme-Synthwave_Neon-ff00ff?style=for-the-badge&logo=visualstudiocode&logoColor=00f5ff" alt="Theme" />
 </p>
 
 ### 🌆 *Level Up Your C# Mastery in full Neon Glow* 🌆
@@ -59,8 +58,6 @@
 ├── 📁 Table/                           # Iterative Data Loops
 ├── 📁 Try Catch Concept/ Try Catch/    # Exception Handling Routines
 └── 📁 Try Parse Concept/               # Safe Type Conversion Protocols
-
-```
 
 ---
 
